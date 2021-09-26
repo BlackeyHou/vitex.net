@@ -23,7 +23,7 @@
     "@vite/vitejs-client": "^2.2.9",
     "@vite/vitejs-utils": "^2.2.9",
     "@vite/vitejs-ws": "^2.2.9",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "babel-polyfill": "^6.26.0",
     "bignumber.js": "^9.0.0",
     "chart.js": "^2.9.4",
